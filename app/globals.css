@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{scroll-behavior:smooth}body{margin:0;background:#fffaf4;color:#32180f}::selection{background:#a95d62;color:white}.grain{background-image:radial-gradient(rgba(50,24,15,.08) .6px,transparent .6px);background-size:5px 5px}
